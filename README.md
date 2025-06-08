@@ -28,7 +28,7 @@
 ## 🙌 Contributor
 
 Curated and recorded by: **Priyanga Selvaperumal**  
-Recording Format: `.mp4` (audio only)  
+Recording Format: `.mp3` (audio only)  
 Language: **Code-switched Tamil-English**  
 Recording Duration: ~10 seconds per file
 
