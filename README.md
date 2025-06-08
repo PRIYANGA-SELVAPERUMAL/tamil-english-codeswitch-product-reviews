@@ -19,9 +19,9 @@
 
 - Code-switching speech recognition model training
 - Multilingual ASR (Automatic Speech Recognition)
-- Spoken sentiment analysis
 - Accent and language mixing research
 - Low-resource language learning for speech models
+- Speech synthesis (TTS) for mixed-language scenarios 
 
 ---
 
