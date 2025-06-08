@@ -1,17 +1,16 @@
 
 # Tamil-English Code-Switching Speech Dataset – Product Reviews 
 
-🎧 This repository contains a unique dataset of **120 Tamil-English code-switched product review recordings** in **MP4 format**. Each recording lasts approximately **10 seconds**, focused entirely on **electronic product reviews** such as smartphones, headphones, smartwatches, and more.
+🎧 This repository contains a unique dataset of **120 Tamil-English code-switched product review recordings** in **MP3 format**. Each recording lasts approximately **10 seconds**, focused entirely on **electronic product reviews** such as smartphones, headphones, smartwatches, and more.
 
 ---
 
 ## 📦 Dataset Overview
 
-- `code_switch_tamil_english_reviews.zip`  
-  └── Contains 120 files:  
-  `Recording 1.mp4` to `Recording 120.mp4`
+- Contains 120 files:  
+  `Recording 1.mp3` to `Recording 120.mp3`
 
-> Each `.mp4` file contains **one spoken sentence** with Tamil-English code-switching, manually curated and recorded.
+> Each `.mp3` file contains **one spoken sentence** with Tamil-English code-switching, manually curated and recorded.
 
 ---
 
